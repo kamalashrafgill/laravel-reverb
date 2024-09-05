@@ -3,6 +3,7 @@
 This is a simple Laravel Reverb example that immediately displays newly registered users in the table as soon as they sign up.
 
 ## Languages/libraries/packages used
+- PHP 8.2 (https://www.php.net)
 - Laravel 11 (https://laravel.com)
 - Laravel reverb (https://reverb.laravel.com)
 - Laravel UI (https://github.com/laravel/ui)
