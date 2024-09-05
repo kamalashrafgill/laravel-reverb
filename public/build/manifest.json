@@ -1,0 +1,22 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app-B8zOkP4C.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "resources/js/echo.js"
+    ]
+  },
+  "resources/js/echo.js": {
+    "file": "assets/echo-BRoReO6B.js",
+    "name": "echo",
+    "src": "resources/js/echo.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-D-sv12UV.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
